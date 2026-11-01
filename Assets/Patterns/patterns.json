@@ -1,0 +1,20 @@
+{
+  "Spells": [
+    {
+      "Name": "Protego",
+      "Image": "Protego_wand_movement_HM.png"
+    },
+    {
+      "Name": "Accio",
+      "Image": "Accio_wand_movement_WU.png"
+    },
+    {
+      "Name": "Aguamenti",
+      "Image": "Aguamenti_wand_movement_WU.png"
+    },
+    {
+      "Name": "Flipendo Maxima",
+      "Image": "FlipendoMaximaGesture.png"
+    }
+  ]
+}
